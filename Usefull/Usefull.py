@@ -1,5 +1,6 @@
 # Lesson 1
 # pip install requests
+# pip install -U python-dotenv
 # import requests
 
 # req = requests.put("http://httpbin.org/put")
