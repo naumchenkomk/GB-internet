@@ -1,0 +1,40 @@
+{
+  "result": {
+    "uv": 0,
+    "uv_time": "2021-03-12T19:16:28.159Z",
+    "uv_max": 1.6175,
+    "uv_max_time": "2021-03-12T09:40:41.216Z",
+    "ozone": 394.7,
+    "ozone_time": "2021-03-12T18:04:04.242Z",
+    "safe_exposure_time": {
+      "st1": null,
+      "st2": null,
+      "st3": null,
+      "st4": null,
+      "st5": null,
+      "st6": null
+    },
+    "sun_info": {
+      "sun_times": {
+        "solarNoon": "2021-03-12T09:40:41.216Z",
+        "nadir": "2021-03-11T21:40:41.216Z",
+        "sunrise": "2021-03-12T03:54:11.718Z",
+        "sunset": "2021-03-12T15:27:10.714Z",
+        "sunriseEnd": "2021-03-12T03:57:59.952Z",
+        "sunsetStart": "2021-03-12T15:23:22.481Z",
+        "dawn": "2021-03-12T03:17:25.902Z",
+        "dusk": "2021-03-12T16:03:56.531Z",
+        "nauticalDawn": "2021-03-12T02:34:22.191Z",
+        "nauticalDusk": "2021-03-12T16:47:00.242Z",
+        "nightEnd": "2021-03-12T01:49:45.604Z",
+        "night": "2021-03-12T17:31:36.829Z",
+        "goldenHourEnd": "2021-03-12T04:43:33.106Z",
+        "goldenHour": "2021-03-12T14:37:49.327Z"
+      },
+      "sun_position": {
+        "azimuth": 2.400473613212406,
+        "altitude": -0.5246290112810963
+      }
+    }
+  }
+}
