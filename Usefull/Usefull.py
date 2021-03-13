@@ -1,4 +1,6 @@
+################################
 # Lesson 1
+
 # pip install requests
 # pip install -U python-dotenv
 # import requests
@@ -19,13 +21,51 @@
 # print('Ответ (содержимое страницы): \n', req.text)
 
 # -------------------- Пример работы с API
+#
+# import requests
+# import json
+#
+# appid = 'b6907d289e10d714a6e88b30761fae22'
+# service = 'https://samples.openweathermap.org/data/2.5/weather'
+# req = requests.get(f'{service}?q=&appid={appid}')
+# # print(req.text)
+# data = json.loads(req.text)
+# print(f"В городе {data['name']} {data['main']['temp']} градусов по Кельвину")
 
+################################
+
+# Lesson 2 Урок 2. Парсинг данных_ Парсинг HTML. Beautiful Soup
+
+# pip install bs4
+# pip install lxml
+#
+# from bs4 import BeautifulSoup         #Для обработки HTML
+# from bs4 import BeautifulStoneSoup    #Для обработки XML
+# import bs4                            #Для обработки и того и другого
+<html>
+    <head>
+        <title>
+            Page title
+        </title>
+    </head>
+    <body>
+        <p id="firstpara" align="center">
+            This is paragraph <b>one</b>.
+        </p>
+        <p id="secondpara" align="blah">
+            This is paragraph <b>two</b>.
+        </p>
+    </body>
+</html>
+
+from bs4 import BeautifulSoup as bs
 import requests
-import json
+response = requests.get('http://example.com').text
+print(response)
 
-appid = 'b6907d289e10d714a6e88b30761fae22'
-service = 'https://samples.openweathermap.org/data/2.5/weather'
-req = requests.get(f'{service}?q=&appid={appid}')
-# print(req.text)
-data = json.loads(req.text)
-print(f"В городе {data['name']} {data['main']['temp']} градусов по Кельвину")
+soup = bs(response, 'lxml') #получаем экземпляр класса bs
+print(soup)
+
+
+---------------------------
+
