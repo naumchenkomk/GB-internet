@@ -42,30 +42,34 @@
 # from bs4 import BeautifulSoup         #Для обработки HTML
 # from bs4 import BeautifulStoneSoup    #Для обработки XML
 # import bs4                            #Для обработки и того и другого
-<html>
-    <head>
-        <title>
-            Page title
-        </title>
-    </head>
-    <body>
-        <p id="firstpara" align="center">
-            This is paragraph <b>one</b>.
-        </p>
-        <p id="secondpara" align="blah">
-            This is paragraph <b>two</b>.
-        </p>
-    </body>
-</html>
+# <html>
+#     <head>
+#         <title>
+#             Page title
+#         </title>
+#     </head>
+#     <body>
+#         <p id="firstpara" align="center">
+#             This is paragraph <b>one</b>.
+#         </p>
+#         <p id="secondpara" align="blah">
+#             This is paragraph <b>two</b>.
+#         </p>
+#     </body>
+# </html>
+#
+# from bs4 import BeautifulSoup as bs
+# import requests
+# response = requests.get('http://example.com').text
+# print(response)
+#
+# soup = bs(response, 'lxml') #получаем экземпляр класса bs
+# print(soup)
 
-from bs4 import BeautifulSoup as bs
-import requests
-response = requests.get('http://example.com').text
-print(response)
+# -------------------- Создание файла
 
-soup = bs(response, 'lxml') #получаем экземпляр класса bs
-print(soup)
+with open('file_name', 'wb') as write_file:
+    pickle.dump(obj, write_file)
 
 
----------------------------
 
