@@ -1,363 +1,2012 @@
 [
   {
-    "vacancy_name": "Python Developer",
-    "link": "https://hh.ru/vacancy/43048662?query=python",
+    "vacancy_name": "Go/Python developer",
+    "link": "https://hh.ru/vacancy/42743544?query=python",
+    "poz": "1700",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Quantitative developer (HFT developer)",
-    "link": "https://hh.ru/vacancy/43005027?query=python",
+    "vacancy_name": "Python Developer for Big Data (remote)",
+    "link": "https://hh.ru/vacancy/42765450?query=python",
+    "poz": "1701",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data analyst (Python)",
+    "link": "https://hh.ru/vacancy/42725363?query=python",
+    "poz": "1702",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python.Django (\u0441\u0442\u0430\u0436\u0435\u0440)",
+    "link": "https://hh.ru/vacancy/42537657?query=python",
+    "poz": "1703",
     "resource": "https://hh.ru/",
-    "zp_min": null,
-    "zp_max": 400000,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python Developer",
-    "link": "https://hh.ru/vacancy/43046900?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Quantitative developer (HFT developer)",
-    "link": "https://hh.ru/vacancy/43005025?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": null,
-    "zp_max": 400000,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Специалист по углубленной аналитике данных (Data scientist)",
-    "link": "https://hh.ru/vacancy/41421231?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Python developer",
-    "link": "https://hh.ru/vacancy/40520323?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Data Scientist",
-    "link": "https://hh.ru/vacancy/41964046?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "DevOps Engineer",
-    "link": "https://hh.ru/vacancy/42301915?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "170000",
-    "zp_max": "250000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Аналитик данных (Data scientist)",
-    "link": "https://hh.ru/vacancy/41827452?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 90000,
+    "zp_min": 15000,
     "zp_max": null,
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (FullBase)",
+    "link": "https://hh.ru/vacancy/42706625?query=python",
+    "poz": "1704",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42671466?query=python",
+    "poz": "1705",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42275464?query=python",
+    "poz": "1706",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/42770821?query=python",
+    "poz": "1707",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/42018936?query=python",
+    "poz": "1708",
+    "resource": "https://hh.ru/",
+    "zp_min": 80000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42761753?query=python",
+    "poz": "1709",
+    "resource": "https://hh.ru/"
   },
   {
     "vacancy_name": "Data engineer",
-    "link": "https://hh.ru/vacancy/42868705?query=python",
+    "link": "https://hh.ru/vacancy/40980341?query=python",
+    "poz": "1710",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "DevOps инженер",
-    "link": "https://hh.ru/vacancy/42370313?query=python",
+    "vacancy_name": "BackEnd Lead Python",
+    "link": "https://hh.ru/vacancy/42831862?query=python",
+    "poz": "1711",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python /Data engineer",
+    "link": "https://hh.ru/vacancy/42751906?query=python",
+    "poz": "1712",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Engineer (Limassol)",
+    "link": "https://hh.ru/vacancy/42676494?query=python",
+    "poz": "1713",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42716290?query=python",
+    "poz": "1714",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist",
+    "link": "https://hh.ru/vacancy/42152539?query=python",
+    "poz": "1715",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42486614?query=python",
+    "poz": "1716",
     "resource": "https://hh.ru/",
-    "zp_min": 130000,
-    "zp_max": null,
-    "zp_curr": "руб."
+    "zp_min": null,
+    "zp_max": 150000,
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Data инженер / Data engineer",
-    "link": "https://hh.ru/vacancy/42647077?query=python",
+    "vacancy_name": "Data Scientist (middle)",
+    "link": "https://hh.ru/vacancy/42118236?query=python",
+    "poz": "1717",
     "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42732897?query=python",
+    "poz": "1718",
+    "resource": "https://hh.ru/",
+    "zp_min": "95000",
+    "zp_max": "120000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Middle Scala Developer (Java / C++/\u0421#/ Python/\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438)",
+    "link": "https://hh.ru/vacancy/42220499?query=python",
+    "poz": "1719",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "QA Automation Python Engineer",
+    "link": "https://hh.ru/vacancy/42833524?query=python",
+    "poz": "1720",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle/Senior/Lead Python Software Engineer",
+    "link": "https://hh.ru/vacancy/42233723?query=python",
+    "poz": "1721",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Junior Data Engineer",
+    "link": "https://hh.ru/vacancy/42707032?query=python",
+    "poz": "1722",
+    "resource": "https://hh.ru/",
+    "zp_min": "80000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
     "vacancy_name": "Data Engineer",
     "link": "https://hh.ru/vacancy/41409971?query=python",
+    "poz": "1723",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Principal Research Scientist",
-    "link": "https://hh.ru/vacancy/41540865?query=python",
+    "vacancy_name": "Junior Data Engineer",
+    "link": "https://hh.ru/vacancy/42780960?query=python",
+    "poz": "1724",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Developer (Content Team)",
+    "link": "https://hh.ru/vacancy/42153774?query=python",
+    "poz": "1725",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer Middle/Senior (\u0423\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
+    "link": "https://hh.ru/vacancy/41727993?query=python",
+    "poz": "1726",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 180000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/40174067?query=python",
+    "poz": "1727",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/40922957?query=python",
+    "poz": "1728",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154788?query=python",
+    "poz": "1729",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist / ML Engineer",
+    "link": "https://hh.ru/vacancy/42826305?query=python",
+    "poz": "1730",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Backend developer (Python)",
+    "link": "https://hh.ru/vacancy/42595221?query=python",
+    "poz": "1731",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/39667078?query=python",
+    "poz": "1732",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer (Media Conglomerate)",
+    "link": "https://hh.ru/vacancy/42786786?query=python",
+    "poz": "1733",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior/Middle Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/40869437?query=python",
+    "poz": "1734",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42201184?query=python",
+    "poz": "1735",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "DevOps Engineer",
+    "link": "https://hh.ru/vacancy/42519570?query=python",
+    "poz": "1736",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Net Software Developer in Big Data",
+    "link": "https://hh.ru/vacancy/43052959?query=python",
+    "poz": "1737",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer (Big Data)",
+    "link": "https://hh.ru/vacancy/40289976?query=python",
+    "poz": "1738",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42450353?query=python",
+    "poz": "1739",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle/Senior Python Developer",
+    "link": "https://hh.ru/vacancy/42752953?query=python",
+    "poz": "1740",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data analyst",
+    "link": "https://hh.ru/vacancy/42628029?query=python",
+    "poz": "1741",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer",
+    "link": "https://hh.ru/vacancy/42740659?query=python",
+    "poz": "1742",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Lead data scientist",
+    "link": "https://hh.ru/vacancy/42685862?query=python",
+    "poz": "1743",
+    "resource": "https://hh.ru/",
+    "zp_min": 250000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Junior Data Scientist",
+    "link": "https://hh.ru/vacancy/42703491?query=python",
+    "poz": "1744",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/41605370?query=python",
+    "poz": "1745",
+    "resource": "https://hh.ru/",
+    "zp_min": 60000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "C++ \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432 \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+    "link": "https://hh.ru/vacancy/42542266?query=python",
+    "poz": "1746",
+    "resource": "https://hh.ru/",
+    "zp_min": "75000",
+    "zp_max": "140000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42854867?query=python",
+    "poz": "1747",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Engineer / Developer",
+    "link": "https://hh.ru/vacancy/42895568?query=python",
+    "poz": "1748",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/41543155?query=python",
+    "poz": "1749",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python.Django (Junior)",
+    "link": "https://hh.ru/vacancy/42537666?query=python",
+    "poz": "1750",
+    "resource": "https://hh.ru/",
+    "zp_min": 28000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/38827758?query=python",
+    "poz": "1751",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "QA Automation Engineer (GCS 3.0)",
+    "link": "https://hh.ru/vacancy/43002746?query=python",
+    "poz": "1752",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (ML)",
+    "link": "https://hh.ru/vacancy/42711851?query=python",
+    "poz": "1753",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445/Data Analyst",
+    "link": "https://hh.ru/vacancy/42184527?query=python",
+    "poz": "1754",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (ML)",
+    "link": "https://hh.ru/vacancy/42711852?query=python",
+    "poz": "1755",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/41175268?query=python",
+    "poz": "1756",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043aC#/Python/C++ Monorepo",
+    "link": "https://hh.ru/vacancy/41189665?query=python",
+    "poz": "1757",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42164418?query=python",
+    "poz": "1758",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Backend - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a ( Python 3 )",
+    "link": "https://hh.ru/vacancy/42704274?query=python",
+    "poz": "1759",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 120000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/41778514?query=python",
+    "poz": "1760",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Full-Stack developer Python, React",
+    "link": "https://hh.ru/vacancy/42120406?query=python",
+    "poz": "1761",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42730502?query=python",
+    "poz": "1762",
+    "resource": "https://hh.ru/",
+    "zp_min": 220000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42011548?query=python",
+    "poz": "1763",
+    "resource": "https://hh.ru/",
+    "zp_min": "150000",
+    "zp_max": "280000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (\u0421\u043e\u0432\u043a\u043e\u043c\u0431\u0430\u043d\u043a \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438)",
+    "link": "https://hh.ru/vacancy/42145579?query=python",
+    "poz": "1764",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle/Senior backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (\u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
+    "link": "https://hh.ru/vacancy/42579177?query=python",
+    "poz": "1765",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Engineer",
+    "link": "https://hh.ru/vacancy/42203655?query=python",
+    "poz": "1766",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Backend Python Developer",
+    "link": "https://hh.ru/vacancy/42149618?query=python",
+    "poz": "1767",
+    "resource": "https://hh.ru/",
+    "zp_min": 80000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 / Data analyst",
+    "link": "https://hh.ru/vacancy/41987261?query=python",
+    "poz": "1768",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "FullStack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python) \u043a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0439 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b",
+    "link": "https://hh.ru/vacancy/42715083?query=python",
+    "poz": "1769",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 100000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Expert",
+    "link": "https://hh.ru/vacancy/42121355?query=python",
+    "poz": "1770",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Software Developer \u2013 Data Visualization",
+    "link": "https://hh.ru/vacancy/42394655?query=python",
+    "poz": "1771",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/42774772?query=python",
+    "poz": "1772",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (Python)",
+    "link": "https://hh.ru/vacancy/42963073?query=python",
+    "poz": "1773",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Junior\\ Middle)",
+    "link": "https://hh.ru/vacancy/42705681?query=python",
+    "poz": "1774",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer (BI)",
+    "link": "https://hh.ru/vacancy/42673574?query=python",
+    "poz": "1775",
+    "resource": "https://hh.ru/",
+    "zp_min": 120000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior Python developer",
+    "link": "https://hh.ru/vacancy/41083487?query=python",
+    "poz": "1776",
+    "resource": "https://hh.ru/",
+    "zp_min": "140000",
+    "zp_max": "200000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "ML \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Computer Vision)",
+    "link": "https://hh.ru/vacancy/42695556?query=python",
+    "poz": "1777",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 200000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior Data scientist",
+    "link": "https://hh.ru/vacancy/42697019?query=python",
+    "poz": "1778",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (C++, Python) \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u043d\u0430 \u041a\u0430\u0448\u0442\u0430\u043a\u0435",
+    "link": "https://hh.ru/vacancy/42988624?query=python",
+    "poz": "1779",
+    "resource": "https://hh.ru/",
+    "zp_min": "15000",
+    "zp_max": "16500",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41598912?query=python",
+    "poz": "1780",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/41740151?query=python",
+    "poz": "1781",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42792238?query=python",
+    "poz": "1782",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42709595?query=python",
+    "poz": "1783",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior/Middle Data Scientists",
+    "link": "https://hh.ru/vacancy/42539763?query=python",
+    "poz": "1784",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "ML \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42608701?query=python",
+    "poz": "1785",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python (Django) \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42725077?query=python",
+    "poz": "1786",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42428317?query=python",
+    "poz": "1787",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/40735787?query=python",
+    "poz": "1788",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior BigData Developer with Python / Spark / AWS",
+    "link": "https://hh.ru/vacancy/42359316?query=python",
+    "poz": "1789",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Computer vision)",
+    "link": "https://hh.ru/vacancy/42201994?query=python",
+    "poz": "1790",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42687405?query=python",
+    "poz": "1791",
+    "resource": "https://hh.ru/",
+    "zp_min": "90000",
+    "zp_max": "120000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Scientist (Big Data)",
+    "link": "https://hh.ru/vacancy/41194330?query=python",
+    "poz": "1792",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Computer vision)",
+    "link": "https://hh.ru/vacancy/40646067?query=python",
+    "poz": "1793",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Fullstack QA Engineer (Python)",
+    "link": "https://hh.ru/vacancy/42704719?query=python",
+    "poz": "1794",
+    "resource": "https://hh.ru/",
+    "zp_min": 2300,
+    "zp_max": null,
+    "zp_curr": "EUR"
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445",
+    "link": "https://hh.ru/vacancy/42218111?query=python",
+    "poz": "1795",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer (\u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
+    "link": "https://hh.ru/vacancy/42645862?query=python",
+    "poz": "1796",
+    "resource": "https://hh.ru/",
+    "zp_min": "4100",
+    "zp_max": "5800",
+    "zp_curr": "EUR"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42136668?query=python",
+    "poz": "1797",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python/Django",
+    "link": "https://hh.ru/vacancy/42680312?query=python",
+    "poz": "1798",
+    "resource": "https://hh.ru/",
+    "zp_min": "180000",
+    "zp_max": "600000",
+    "zp_curr": "KZT"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Machine Learning)",
+    "link": "https://hh.ru/vacancy/42295441?query=python",
+    "poz": "1799",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/40698009?query=python",
+    "poz": "1800",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42772685?query=python",
+    "poz": "1801",
     "resource": "https://hh.ru/"
   },
   {
     "vacancy_name": "Senior Python Developer",
-    "link": "https://hh.ru/vacancy/41595848?query=python",
+    "link": "https://hh.ru/vacancy/42688547?query=python",
+    "poz": "1802",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/42855358?query=python",
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f AI / ML - developer (\u0441\u0442\u0430\u0436\u0435\u0440)",
+    "link": "https://hh.ru/vacancy/42719263?query=python",
+    "poz": "1803",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "QA Automation Engineer (Python, BigData)",
+    "link": "https://hh.ru/vacancy/41541448?query=python",
+    "poz": "1804",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist (\u0440\u043e\u0437\u043d\u0438\u0447\u043d\u044b\u0435 \u0440\u0438\u0441\u043a\u0438)",
+    "link": "https://hh.ru/vacancy/39681281?query=python",
+    "poz": "1805",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/40420062?query=python",
+    "poz": "1806",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer for CloudLinux OS",
+    "link": "https://hh.ru/vacancy/42702194?query=python",
+    "poz": "1807",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python backend developer",
+    "link": "https://hh.ru/vacancy/42785582?query=python",
+    "poz": "1808",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python backend developer",
+    "link": "https://hh.ru/vacancy/42785581?query=python",
+    "poz": "1809",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Compression Algorithm Researcher Engineer (C/C++/Python)",
+    "link": "https://hh.ru/vacancy/42744028?query=python",
+    "poz": "1810",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Scientist (knowledge mining)",
+    "link": "https://hh.ru/vacancy/42899739?query=python",
+    "poz": "1811",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Fullstack QA Engineer (Python)",
+    "link": "https://hh.ru/vacancy/42703552?query=python",
+    "poz": "1812",
+    "resource": "https://hh.ru/",
+    "zp_min": "2300",
+    "zp_max": "2800",
+    "zp_curr": "EUR"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42709180?query=python",
+    "poz": "1813",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42202145?query=python",
+    "poz": "1814",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer / python \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+    "link": "https://hh.ru/vacancy/42838546?query=python",
+    "poz": "1815",
+    "resource": "https://hh.ru/",
+    "zp_min": "35000",
+    "zp_max": "45000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42658084?query=python",
+    "poz": "1816",
     "resource": "https://hh.ru/",
     "zp_min": "90000",
-    "zp_max": "110000",
-    "zp_curr": "руб."
+    "zp_max": "145000",
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/42277259?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "160000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (Remote option)",
+    "link": "https://hh.ru/vacancy/42713837?query=python",
+    "poz": "1817",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Программист Python",
-    "link": "https://hh.ru/vacancy/42921655?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
+    "vacancy_name": "Senior Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/38019357?query=python",
+    "poz": "1818",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Senior Backend-разработчик (Python)",
-    "link": "https://hh.ru/vacancy/41649102?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "200000",
-    "zp_max": "320000",
-    "zp_curr": "руб."
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154786?query=python",
+    "poz": "1819",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python-разработчик (Django, DRF)",
-    "link": "https://hh.ru/vacancy/39736489?query=python",
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a Big Data",
+    "link": "https://hh.ru/vacancy/42109816?query=python",
+    "poz": "1820",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Internship Data Engineer / Analyst F/M",
+    "link": "https://hh.ru/vacancy/42678013?query=python",
+    "poz": "1821",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "TeamLead Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 / \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0433\u0440\u0443\u043f\u043f\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432 (Python)",
+    "link": "https://hh.ru/vacancy/42654310?query=python",
+    "poz": "1822",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist/DS Developer \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 External Data Modeling and Research",
+    "link": "https://hh.ru/vacancy/42721384?query=python",
+    "poz": "1823",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python)",
+    "link": "https://hh.ru/vacancy/42775539?query=python",
+    "poz": "1824",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154789?query=python",
+    "poz": "1825",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python / Data Scientist (junior/mid/senior)",
+    "link": "https://hh.ru/vacancy/42631132?query=python",
+    "poz": "1826",
     "resource": "https://hh.ru/",
-    "zp_min": "60000",
+    "zp_min": "70000",
     "zp_max": "150000",
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/42766512?query=python",
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154784?query=python",
+    "poz": "1827",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Go developer (Security Big Data)",
+    "link": "https://hh.ru/vacancy/41066652?query=python",
+    "poz": "1828",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle/Senior Data Analyst",
+    "link": "https://hh.ru/vacancy/42875479?query=python",
+    "poz": "1829",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Junior bioinformatics scientist",
+    "link": "https://hh.ru/vacancy/42767182?query=python",
+    "poz": "1830",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer (\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430)",
+    "link": "https://hh.ru/vacancy/42742243?query=python",
+    "poz": "1831",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42777550?query=python",
+    "poz": "1832",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (Python)",
+    "link": "https://hh.ru/vacancy/42569840?query=python",
+    "poz": "1833",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42395791?query=python",
+    "poz": "1834",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154785?query=python",
+    "poz": "1835",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e (Data Scientist) \u0432 \u041a\u0430\u0437\u0430\u043d\u044c",
+    "link": "https://hh.ru/vacancy/42221587?query=python",
+    "poz": "1836",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041d\u0430\u0441\u0442\u0430\u0432\u043d\u0438\u043a \u043a\u0443\u0440\u0441\u0430 \u201c\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445\u201c",
+    "link": "https://hh.ru/vacancy/42084577?query=python",
+    "poz": "1837",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42652004?query=python",
+    "poz": "1838",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Big Data Engineer",
+    "link": "https://hh.ru/vacancy/42129113?query=python",
+    "poz": "1839",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Engineer (Python, AWS)",
+    "link": "https://hh.ru/vacancy/42355074?query=python",
+    "poz": "1840",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42156393?query=python",
+    "poz": "1841",
     "resource": "https://hh.ru/",
-    "zp_min": "1500",
-    "zp_max": "4000",
-    "zp_curr": "USD"
+    "zp_min": 60000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Python Backend разработчик",
-    "link": "https://hh.ru/vacancy/42555938?query=python",
+    "vacancy_name": "Data Scientist (Middle+)",
+    "link": "https://hh.ru/vacancy/42811894?query=python",
+    "poz": "1842",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data analyst (\u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u043c\u043e\u0434\u0435\u043b\u0435\u0439)",
+    "link": "https://hh.ru/vacancy/42111599?query=python",
+    "poz": "1843",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/39307030?query=python",
+    "poz": "1844",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist NLP",
+    "link": "https://hh.ru/vacancy/42533835?query=python",
+    "poz": "1845",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Team lead Data Engineer (ETL)",
+    "link": "https://hh.ru/vacancy/42261295?query=python",
+    "poz": "1846",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist NLP",
+    "link": "https://hh.ru/vacancy/42479432?query=python",
+    "poz": "1847",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42774819?query=python",
+    "poz": "1848",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Backend Developer (Python)",
+    "link": "https://hh.ru/vacancy/40639865?query=python",
+    "poz": "1849",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Lead / Senior Data Engineer",
+    "link": "https://hh.ru/vacancy/42748192?query=python",
+    "poz": "1850",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/41279408?query=python",
+    "poz": "1851",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a / ml \u0438\u043d\u0436\u0435\u043d\u0435\u0440 (\u0430\u043d\u0430\u043b\u0438\u0437 \u0434\u0430\u043d\u043d\u044b\u0445, \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
+    "link": "https://hh.ru/vacancy/42673104?query=python",
+    "poz": "1852",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (BI)",
+    "link": "https://hh.ru/vacancy/42037307?query=python",
+    "poz": "1853",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42774818?query=python",
+    "poz": "1854",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist, Capital Markets",
+    "link": "https://hh.ru/vacancy/42733711?query=python",
+    "poz": "1855",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42601042?query=python",
+    "poz": "1856",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python & blockchain developer",
+    "link": "https://hh.ru/vacancy/42154783?query=python",
+    "poz": "1857",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/42658724?query=python",
+    "poz": "1858",
     "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "250000",
-    "zp_curr": "руб."
+    "zp_min": "80000",
+    "zp_max": "120000",
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Программист-математик/Алгоритмист (США)",
-    "link": "https://hh.ru/vacancy/42251823?query=python",
+    "vacancy_name": "DataScientist\u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u0424\u043e\u0442\u043e (\u041e\u041a)",
+    "link": "https://hh.ru/vacancy/42774494?query=python",
+    "poz": "1859",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42677357?query=python",
+    "poz": "1860",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist (Computer vision, NLP) - Syntagma Team",
+    "link": "https://hh.ru/vacancy/42807754?query=python",
+    "poz": "1861",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Big Data",
+    "link": "https://hh.ru/vacancy/42704394?query=python",
+    "poz": "1862",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/40860978?query=python",
+    "poz": "1863",
     "resource": "https://hh.ru/",
     "zp_min": null,
-    "zp_max": 7000,
+    "zp_max": 165000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e (Data Scientist) \u0432 \u041a\u0430\u0437\u0430\u043d\u044c",
+    "link": "https://hh.ru/vacancy/42221590?query=python",
+    "poz": "1864",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/40526687?query=python",
+    "poz": "1865",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 200000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data engineer (\u041c\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f)",
+    "link": "https://hh.ru/vacancy/41190454?query=python",
+    "poz": "1866",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42156070?query=python",
+    "poz": "1867",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/42551535?query=python",
+    "poz": "1868",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Fullstack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python/Django",
+    "link": "https://hh.ru/vacancy/42631714?query=python",
+    "poz": "1869",
+    "resource": "https://hh.ru/",
+    "zp_min": "80000",
+    "zp_max": "140000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior QA Automation Engineer (Python)",
+    "link": "https://hh.ru/vacancy/41467833?query=python",
+    "poz": "1870",
+    "resource": "https://hh.ru/",
+    "zp_min": 300000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior Data Analyst",
+    "link": "https://hh.ru/vacancy/41987558?query=python",
+    "poz": "1871",
+    "resource": "https://hh.ru/",
+    "zp_min": 5000,
+    "zp_max": null,
     "zp_curr": "USD"
   },
   {
-    "vacancy_name": "Python/Django разработчик",
-    "link": "https://hh.ru/vacancy/42799332?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 70000,
-    "zp_max": null,
-    "zp_curr": "руб."
+    "vacancy_name": "Python developer (Python Backend Developer)",
+    "link": "https://hh.ru/vacancy/41493379?query=python",
+    "poz": "1872",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/37486302?query=python",
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41917072?query=python",
+    "poz": "1873",
     "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "250000",
-    "zp_curr": "руб."
+    "zp_min": 50000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438",
+    "link": "https://hh.ru/vacancy/42144364?query=python",
+    "poz": "1874",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer with Big Data (office/remote)",
+    "link": "https://hh.ru/vacancy/40120242?query=python",
+    "poz": "1875",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist NLP",
+    "link": "https://hh.ru/vacancy/42533736?query=python",
+    "poz": "1876",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist",
+    "link": "https://hh.ru/vacancy/42738024?query=python",
+    "poz": "1877",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Bioinformatics Software Engineer \u2013 Genomics",
+    "link": "https://hh.ru/vacancy/42767168?query=python",
+    "poz": "1878",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Senior Developer",
+    "link": "https://hh.ru/vacancy/39628874?query=python",
+    "poz": "1879",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Backend Developer",
+    "link": "https://hh.ru/vacancy/40289680?query=python",
+    "poz": "1880",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python / C++",
+    "link": "https://hh.ru/vacancy/42618012?query=python",
+    "poz": "1881",
+    "resource": "https://hh.ru/",
+    "zp_min": 118000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "DevOps Engineer \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b \u0434\u0430\u043d\u043d\u044b\u0445 (Big Data)",
+    "link": "https://hh.ru/vacancy/42729926?query=python",
+    "poz": "1882",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer (Data Warehouse)",
+    "link": "https://hh.ru/vacancy/42645884?query=python",
+    "poz": "1883",
+    "resource": "https://hh.ru/",
+    "zp_min": 2000,
+    "zp_max": null,
+    "zp_curr": "EUR"
+  },
+  {
+    "vacancy_name": "Junior python backend \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043b\u043e\u0433\u0438\u043a\u0438)",
+    "link": "https://hh.ru/vacancy/41907237?query=python",
+    "poz": "1884",
+    "resource": "https://hh.ru/",
+    "zp_min": 280000,
+    "zp_max": null,
+    "zp_curr": "KZT"
+  },
+  {
+    "vacancy_name": "\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python.Django (Middle)",
+    "link": "https://hh.ru/vacancy/42537674?query=python",
+    "poz": "1885",
+    "resource": "https://hh.ru/",
+    "zp_min": 45000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python, \u041f\u043e\u0438\u0441\u043a / \u0421\u0442\u0435\u043d\u0434 \u043c\u0435\u0442\u0440\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42208258?query=python",
+    "poz": "1886",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Developer (Cars)",
+    "link": "https://hh.ru/vacancy/42161332?query=python",
+    "poz": "1887",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42652137?query=python",
+    "poz": "1888",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Django/Python Developer",
+    "link": "https://hh.ru/vacancy/42615802?query=python",
+    "poz": "1889",
+    "resource": "https://hh.ru/",
+    "zp_min": "70000",
+    "zp_max": "110000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42652154?query=python",
+    "poz": "1890",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python ML developer",
+    "link": "https://hh.ru/vacancy/42592009?query=python",
+    "poz": "1891",
+    "resource": "https://hh.ru/",
+    "zp_min": "80000",
+    "zp_max": "120000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Engineer (Analytics Core)",
+    "link": "https://hh.ru/vacancy/42543742?query=python",
+    "poz": "1892",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer (middle)",
+    "link": "https://hh.ru/vacancy/42608407?query=python",
+    "poz": "1893",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "ML Developer",
+    "link": "https://hh.ru/vacancy/42822642?query=python",
+    "poz": "1894",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist (computer vision)",
+    "link": "https://hh.ru/vacancy/36997030?query=python",
+    "poz": "1895",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42765072?query=python",
+    "poz": "1896",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer",
+    "link": "https://hh.ru/vacancy/36606581?query=python",
+    "poz": "1897",
+    "resource": "https://hh.ru/",
+    "zp_min": "50000",
+    "zp_max": "75000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Middle Python Developer for CloudLinux OS",
+    "link": "https://hh.ru/vacancy/42702351?query=python",
+    "poz": "1898",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/42582766?query=python",
+    "poz": "1899",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data analyst",
+    "link": "https://hh.ru/vacancy/42381527?query=python",
+    "poz": "1900",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Data Scientist",
+    "link": "https://hh.ru/vacancy/42080996?query=python",
+    "poz": "1901",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42395791?query=python",
+    "poz": "1902",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Web-developer (Python)",
+    "link": "https://hh.ru/vacancy/42517425?query=python",
+    "poz": "1903",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/42041308?query=python",
+    "poz": "1904",
+    "resource": "https://hh.ru/",
+    "zp_min": 230000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Python developer Senior",
+    "link": "https://hh.ru/vacancy/41689215?query=python",
+    "poz": "1905",
+    "resource": "https://hh.ru/",
+    "zp_min": 200000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Backend Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/41734740?query=python",
+    "poz": "1906",
+    "resource": "https://hh.ru/",
+    "zp_min": 150000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "DevOps intern",
+    "link": "https://hh.ru/vacancy/42349687?query=python",
+    "poz": "1907",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python developer",
+    "link": "https://hh.ru/vacancy/42055443?query=python",
+    "poz": "1908",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior machine learning engineer (\u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u0441\u0443\u0434\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u0435)",
+    "link": "https://hh.ru/vacancy/42502585?query=python",
+    "poz": "1909",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/42041304?query=python",
+    "poz": "1910",
+    "resource": "https://hh.ru/",
+    "zp_min": 230000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (Middle/Senior)",
+    "link": "https://hh.ru/vacancy/42028597?query=python",
+    "poz": "1911",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Big Data Engineer",
+    "link": "https://hh.ru/vacancy/42129113?query=python",
+    "poz": "1912",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/41993226?query=python",
+    "poz": "1913",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Developer, Financial Software Solutions",
+    "link": "https://hh.ru/vacancy/41834881?query=python",
+    "poz": "1914",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/41778513?query=python",
+    "poz": "1915",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "DevOps engineer",
+    "link": "https://hh.ru/vacancy/42426427?query=python",
+    "poz": "1916",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer Middle/Senior (\u0423\u0434\u0430\u043b\u0435\u043d\u043d\u043e)",
+    "link": "https://hh.ru/vacancy/41727993?query=python",
+    "poz": "1917",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 180000,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/41953984?query=python",
+    "poz": "1918",
+    "resource": "https://hh.ru/",
+    "zp_min": "120000",
+    "zp_max": "180000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a SQL / Python",
+    "link": "https://hh.ru/vacancy/41982317?query=python",
+    "poz": "1919",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Backend/C++ Developer",
+    "link": "https://hh.ru/vacancy/42382105?query=python",
+    "poz": "1920",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data engineer (Big Data)",
+    "link": "https://hh.ru/vacancy/41846697?query=python",
+    "poz": "1921",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/41816310?query=python",
+    "poz": "1922",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/41941114?query=python",
+    "poz": "1923",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Machine Learning Engineer / Deep Learning Engineer",
+    "link": "https://hh.ru/vacancy/41622841?query=python",
+    "poz": "1924",
+    "resource": "https://hh.ru/",
+    "zp_min": 300000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42197254?query=python",
+    "poz": "1925",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/42041297?query=python",
+    "poz": "1926",
+    "resource": "https://hh.ru/",
+    "zp_min": 230000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
     "vacancy_name": "Data Engineer",
     "link": "https://hh.ru/vacancy/41469811?query=python",
+    "poz": "1927",
     "resource": "https://hh.ru/",
     "zp_min": 250000,
     "zp_max": null,
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/43037049?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "120000",
-    "zp_max": "180000",
-    "zp_curr": "руб."
+    "vacancy_name": "Data Engineer (Python)",
+    "link": "https://hh.ru/vacancy/41611584?query=python",
+    "poz": "1928",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Junior Backend-разработчик (Python)",
-    "link": "https://hh.ru/vacancy/42424608?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 50000,
-    "zp_max": null,
-    "zp_curr": "руб."
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/42117693?query=python",
+    "poz": "1929",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Программист Python",
-    "link": "https://hh.ru/vacancy/42844642?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "60000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python / C++ разработчик",
-    "link": "https://hh.ru/vacancy/42783010?query=python",
+    "vacancy_name": "Middle Backend Developer (Web app, Python, FastAPI)",
+    "link": "https://hh.ru/vacancy/41989381?query=python",
+    "poz": "1930",
     "resource": "https://hh.ru/",
     "zp_min": "150000",
     "zp_max": "200000",
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Junior python разработчик",
-    "link": "https://hh.ru/vacancy/43052129?query=python",
+    "vacancy_name": "Junior Data Scientist (NLP)",
+    "link": "https://hh.ru/vacancy/41807130?query=python",
+    "poz": "1931",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/42766513?query=python",
+    "vacancy_name": "C++ \\ Python Developer",
+    "link": "https://hh.ru/vacancy/41744898?query=python",
+    "poz": "1932",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python/Go Developer",
+    "link": "https://hh.ru/vacancy/41850767?query=python",
+    "poz": "1933",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 (Data scientist)",
+    "link": "https://hh.ru/vacancy/41827452?query=python",
+    "poz": "1934",
     "resource": "https://hh.ru/",
-    "zp_min": "1500",
-    "zp_max": "4000",
+    "zp_min": 90000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42108967?query=python",
+    "poz": "1935",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer (Python/Java)",
+    "link": "https://hh.ru/vacancy/41763219?query=python",
+    "poz": "1936",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/41734082?query=python",
+    "poz": "1937",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e (Data Scientist) \u0432 \u041a\u0430\u0437\u0430\u043d\u044c",
+    "link": "https://hh.ru/vacancy/42221588?query=python",
+    "poz": "1938",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer / Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a / \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41569929?query=python",
+    "poz": "1939",
+    "resource": "https://hh.ru/",
+    "zp_min": "80000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data scientist",
+    "link": "https://hh.ru/vacancy/41931121?query=python",
+    "poz": "1940",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Senior",
+    "link": "https://hh.ru/vacancy/41541131?query=python",
+    "poz": "1941",
+    "resource": "https://hh.ru/",
+    "zp_min": "150000",
+    "zp_max": "190000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Middle / Senior Python Developer",
+    "link": "https://hh.ru/vacancy/42035794?query=python",
+    "poz": "1942",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41959154?query=python",
+    "poz": "1943",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Senior",
+    "link": "https://hh.ru/vacancy/41541061?query=python",
+    "poz": "1944",
+    "resource": "https://hh.ru/",
+    "zp_min": "180000",
+    "zp_max": "250000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u0434\u0430\u043d\u043d\u044b\u0445 (Data Engineer)",
+    "link": "https://hh.ru/vacancy/42013644?query=python",
+    "poz": "1945",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle+ Python Developer",
+    "link": "https://hh.ru/vacancy/42018670?query=python",
+    "poz": "1946",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist",
+    "link": "https://hh.ru/vacancy/41965979?query=python",
+    "poz": "1947",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0432\u0435\u0440\u044f\u044e\u0449\u0438\u0439 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u043f\u043e \u043a\u0443\u0440\u0441\u0443 \"Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\"",
+    "link": "https://hh.ru/vacancy/42004233?query=python",
+    "poz": "1948",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/42297706?query=python",
+    "poz": "1949",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Full-stack - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42596176?query=python",
+    "poz": "1950",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "QA Automation Python \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442",
+    "link": "https://hh.ru/vacancy/41942910?query=python",
+    "poz": "1951",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python.Django (Middle)",
+    "link": "https://hh.ru/vacancy/42537674?query=python",
+    "poz": "1952",
+    "resource": "https://hh.ru/",
+    "zp_min": 45000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/41778514?query=python",
+    "poz": "1953",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Machine Learning Engineer",
+    "link": "https://hh.ru/vacancy/41810556?query=python",
+    "poz": "1954",
+    "resource": "https://hh.ru/",
+    "zp_min": "4000",
+    "zp_max": "5000",
+    "zp_curr": "EUR"
+  },
+  {
+    "vacancy_name": "Python (odoo) \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/41653361?query=python",
+    "poz": "1955",
+    "resource": "https://hh.ru/",
+    "zp_min": "100000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42007437?query=python",
+    "poz": "1956",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist (\u0426\u0435\u043d\u0442\u0440 \u0432\u0430\u043b\u0438\u0434\u0430\u0446\u0438\u0438 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u0431\u043b\u043e\u043a\u043e\u0432 \u0438 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b)",
+    "link": "https://hh.ru/vacancy/41949842?query=python",
+    "poz": "1957",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python/Go Engineer - Backend Product team [Remote]",
+    "link": "https://hh.ru/vacancy/41546782?query=python",
+    "poz": "1958",
+    "resource": "https://hh.ru/",
+    "zp_min": "5000",
+    "zp_max": "7000",
     "zp_curr": "USD"
   },
   {
-    "vacancy_name": "Стажер-программист Python",
-    "link": "https://hh.ru/vacancy/42601253?query=python",
+    "vacancy_name": "Senior Machine Learning Developer",
+    "link": "https://hh.ru/vacancy/41549016?query=python",
+    "poz": "1959",
+    "resource": "https://hh.ru/",
+    "zp_min": 300000,
+    "zp_max": null,
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Data scientist",
+    "link": "https://hh.ru/vacancy/41931086?query=python",
+    "poz": "1960",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Специалист Computer Vision (Data Scientist) - middle/senior",
-    "link": "https://hh.ru/vacancy/42947110?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "130000",
-    "zp_max": "300000",
-    "zp_curr": "руб."
+    "vacancy_name": "Python/DevOps Developer",
+    "link": "https://hh.ru/vacancy/41679347?query=python",
+    "poz": "1961",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Data Scientist (компьютерное зрение)",
-    "link": "https://hh.ru/vacancy/42813933?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "70000",
-    "zp_max": "400000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python/django программист-стажер (junior)",
-    "link": "https://hh.ru/vacancy/43056574?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "16000",
-    "zp_max": "40000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Quantitative researcher",
-    "link": "https://hh.ru/vacancy/42932744?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 350000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Middle разработчик Python / Django (удалённо)",
-    "link": "https://hh.ru/vacancy/42822407?query=python",
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41622431?query=python",
+    "poz": "1962",
     "resource": "https://hh.ru/",
     "zp_min": "60000",
-    "zp_max": "120000",
-    "zp_curr": "руб."
+    "zp_max": "70000",
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Junior Python-разработчик",
-    "link": "https://hh.ru/vacancy/43056541?query=python",
+    "vacancy_name": "Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0432 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432",
+    "link": "https://hh.ru/vacancy/41562531?query=python",
+    "poz": "1963",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Разработчик Python",
-    "link": "https://hh.ru/vacancy/41784502?query=python",
+    "vacancy_name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/41812766?query=python",
+    "poz": "1964",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "DevOps Engineer (Middle)",
+    "link": "https://hh.ru/vacancy/42601455?query=python",
+    "poz": "1965",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer (\u041a\u043e\u043c\u043f\u043b\u0430\u0435\u043d\u0441)",
+    "link": "https://hh.ru/vacancy/42418960?query=python",
+    "poz": "1966",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python Developer for CloudLinux OS",
+    "link": "https://hh.ru/vacancy/42702351?query=python",
+    "poz": "1967",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/42041309?query=python",
+    "poz": "1968",
     "resource": "https://hh.ru/",
-    "zp_min": 180000,
+    "zp_min": 230000,
     "zp_max": null,
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Разработчик Python",
-    "link": "https://hh.ru/vacancy/42564873?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": null,
-    "zp_max": 50000,
-    "zp_curr": "руб."
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/42160060?query=python",
+    "poz": "1969",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Middle Python Developer / Python Разработчик",
-    "link": "https://hh.ru/vacancy/42749800?query=python",
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42197348?query=python",
+    "poz": "1970",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/42007435?query=python",
+    "poz": "1971",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/41670490?query=python",
+    "poz": "1972",
     "resource": "https://hh.ru/",
-    "zp_min": 70000,
+    "zp_min": 160000,
     "zp_max": null,
-    "zp_curr": "руб."
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Junior Python / Django разработчик",
-    "link": "https://hh.ru/vacancy/43049548?query=python",
+    "vacancy_name": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/41418286?query=python",
+    "poz": "1973",
     "resource": "https://hh.ru/",
-    "zp_min": "20000",
-    "zp_max": "100000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Ведущий разработчик Python (Team Lead)",
-    "link": "https://hh.ru/vacancy/42921678?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "250000",
-    "zp_max": "300000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Аналитик / Data Analyst (Product Analyst)",
-    "link": "https://hh.ru/vacancy/42814545?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 100000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Senior full stack software engineer (Python) up to 9000$",
-    "link": "https://hh.ru/vacancy/41092589?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "6000",
-    "zp_max": "9000",
+    "zp_min": "3500",
+    "zp_max": "5000",
     "zp_curr": "USD"
   },
   {
-    "vacancy_name": "Python developer",
-    "link": "https://hh.ru/vacancy/30005963?query=python",
+    "vacancy_name": "DevOps Engineer",
+    "link": "https://hh.ru/vacancy/42449382?query=python",
+    "poz": "1974",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/42197304?query=python",
+    "poz": "1975",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+    "link": "https://hh.ru/vacancy/41449628?query=python",
+    "poz": "1976",
     "resource": "https://hh.ru/",
-    "zp_min": 4000,
+    "zp_min": "60000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440 \u043f\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f (Python)",
+    "link": "https://hh.ru/vacancy/41680613?query=python",
+    "poz": "1977",
+    "resource": "https://hh.ru/",
+    "zp_min": "70000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Big Data Engineer (Team Lead)",
+    "link": "https://hh.ru/vacancy/42450320?query=python",
+    "poz": "1978",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data scientist (\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0418\u0421\u0423)",
+    "link": "https://hh.ru/vacancy/42076058?query=python",
+    "poz": "1979",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Back-end Developer Go/Python",
+    "link": "https://hh.ru/vacancy/41785210?query=python",
+    "poz": "1980",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/41567280?query=python",
+    "poz": "1981",
+    "resource": "https://hh.ru/",
+    "zp_min": 230000,
     "zp_max": null,
-    "zp_curr": "USD"
+    "zp_curr": "\u0440\u0443\u0431."
   },
   {
-    "vacancy_name": "Разработчик Python (телеком)",
-    "link": "https://hh.ru/vacancy/43031887?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 150000,
-    "zp_max": null,
-    "zp_curr": "руб."
+    "vacancy_name": "DevOps \u0438\u043d\u0436\u0435\u043d\u0435\u0440 - Data River (Big Data)",
+    "link": "https://hh.ru/vacancy/41779134?query=python",
+    "poz": "1982",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Backend-разработчик Python",
-    "link": "https://hh.ru/vacancy/42588879?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "170000",
-    "zp_max": "230000",
-    "zp_curr": "руб."
+    "vacancy_name": "Go/Python developer",
+    "link": "https://hh.ru/vacancy/41591176?query=python",
+    "poz": "1983",
+    "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python Tech Lead Engineer (Remote)",
-    "link": "https://hh.ru/vacancy/42946169?query=python",
+    "vacancy_name": "Backend developer",
+    "link": "https://hh.ru/vacancy/41761675?query=python",
+    "poz": "1984",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Go/Python developer",
+    "link": "https://hh.ru/vacancy/41591177?query=python",
+    "poz": "1985",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior data scientist",
+    "link": "https://hh.ru/vacancy/42321357?query=python",
+    "poz": "1986",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Go/Python developer",
+    "link": "https://hh.ru/vacancy/41591175?query=python",
+    "poz": "1987",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "link": "https://hh.ru/vacancy/41740151?query=python",
+    "poz": "1988",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Devops \u0438\u043d\u0436\u0435\u043d\u0435\u0440",
+    "link": "https://hh.ru/vacancy/42171850?query=python",
+    "poz": "1989",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Analyst",
+    "link": "https://hh.ru/vacancy/41982152?query=python",
+    "poz": "1990",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data science engineer",
+    "link": "https://hh.ru/vacancy/42446183?query=python",
+    "poz": "1991",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Junior Python developer \u0432 \u0412\u043e\u043b\u043e\u0433\u0434\u0435",
+    "link": "https://hh.ru/vacancy/41779318?query=python",
+    "poz": "1992",
     "resource": "https://hh.ru/",
-    "zp_min": "250000",
-    "zp_max": "350000",
-    "zp_curr": "руб."
+    "zp_min": "40000",
+    "zp_max": "40000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "Senior Data Scientist",
+    "link": "https://hh.ru/vacancy/42129248?query=python",
+    "poz": "1993",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e (Data Scientist) \u0432 \u041a\u0430\u0437\u0430\u043d\u044c",
+    "link": "https://hh.ru/vacancy/42221589?query=python",
+    "poz": "1994",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "\u0410\u043d\u0430\u043b\u0438\u0442\u0438\u043a \u0434\u0430\u043d\u043d\u044b\u0445 / Data analyst",
+    "link": "https://hh.ru/vacancy/41987261?query=python",
+    "poz": "1995",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a",
+    "link": "https://hh.ru/vacancy/41778159?query=python",
+    "poz": "1996",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer (Python Backend Developer)",
+    "link": "https://hh.ru/vacancy/41493379?query=python",
+    "poz": "1997",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Middle Python- \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c)",
+    "link": "https://hh.ru/vacancy/41498822?query=python",
+    "poz": "1998",
+    "resource": "https://hh.ru/",
+    "zp_min": "80000",
+    "zp_max": "150000",
+    "zp_curr": "\u0440\u0443\u0431."
+  },
+  {
+    "vacancy_name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+    "link": "https://hh.ru/vacancy/41769075?query=python",
+    "poz": "1999",
+    "resource": "https://hh.ru/"
   }
 ]
