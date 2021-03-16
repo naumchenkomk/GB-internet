@@ -169,8 +169,11 @@ def json_add_to_file(f_name, page):
 
 ###############################
 
-word_vacancy = 'python'
-pages_nbr = 2
+# word_vacancy = 'python'
+word_vacancy = input('Введите слово или фразу для поиска вакансий: ')
+# pages_nbr = 2
+pages_nbr = int(input('Сколько страниц хотите просмотреть? '))
+
 f_name_req = "hh_vacancies_search_result"
 f_name_out = 'hh_vacancies_parsed'
 
@@ -202,8 +205,10 @@ with open(f"{f_name_out}.json", "r") as f:
     hh_vacancies_full = json.load(f)
     print()
     print('Количество вакансий, суммарное:', len(hh_vacancies_full))
+    vacancies_nbr = int(input('Сколько вакансий показать? '))
+
     print('Вакансии:')
-    pprint(hh_vacancies_full)
+    pprint(hh_vacancies_full[0:vacancies_nbr])
 
 
     ########### TODO TIME

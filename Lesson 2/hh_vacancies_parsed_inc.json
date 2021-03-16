@@ -1,372 +1,363 @@
 [
   {
-    "vacancy_name": "Python-разработчик (Senior)",
-    "link": "https://hh.ru/vacancy/42602096?query=python",
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/43048662?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Quantitative developer (HFT developer)",
+    "link": "https://hh.ru/vacancy/43005027?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 400000,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://hh.ru/vacancy/43046900?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Quantitative developer (HFT developer)",
+    "link": "https://hh.ru/vacancy/43005025?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 400000,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Специалист по углубленной аналитике данных (Data scientist)",
+    "link": "https://hh.ru/vacancy/41421231?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python developer",
+    "link": "https://hh.ru/vacancy/40520323?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Scientist",
+    "link": "https://hh.ru/vacancy/41964046?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "DevOps Engineer",
+    "link": "https://hh.ru/vacancy/42301915?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "170000",
+    "zp_max": "250000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Аналитик данных (Data scientist)",
+    "link": "https://hh.ru/vacancy/41827452?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 90000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Data engineer",
+    "link": "https://hh.ru/vacancy/42868705?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "DevOps инженер",
+    "link": "https://hh.ru/vacancy/42370313?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 130000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Data инженер / Data engineer",
+    "link": "https://hh.ru/vacancy/42647077?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/41409971?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Principal Research Scientist",
+    "link": "https://hh.ru/vacancy/41540865?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Senior Python Developer",
+    "link": "https://hh.ru/vacancy/41595848?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Python разработчик",
+    "link": "https://hh.ru/vacancy/42855358?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "90000",
+    "zp_max": "110000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/42277259?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "160000",
+    "zp_max": "200000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Программист Python",
+    "link": "https://hh.ru/vacancy/42921655?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "150000",
+    "zp_max": "200000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Senior Backend-разработчик (Python)",
+    "link": "https://hh.ru/vacancy/41649102?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "200000",
+    "zp_max": "320000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python-разработчик (Django, DRF)",
+    "link": "https://hh.ru/vacancy/39736489?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "60000",
+    "zp_max": "150000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python разработчик",
+    "link": "https://hh.ru/vacancy/42766512?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "1500",
+    "zp_max": "4000",
+    "zp_curr": "USD"
+  },
+  {
+    "vacancy_name": "Python Backend разработчик",
+    "link": "https://hh.ru/vacancy/42555938?query=python",
     "resource": "https://hh.ru/",
     "zp_min": "150000",
     "zp_max": "250000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Python Developer",
-    "link": "https://hh.ru/vacancy/42674806?query=python",
+    "vacancy_name": "Программист-математик/Алгоритмист (США)",
+    "link": "https://hh.ru/vacancy/42251823?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 7000,
+    "zp_curr": "USD"
+  },
+  {
+    "vacancy_name": "Python/Django разработчик",
+    "link": "https://hh.ru/vacancy/42799332?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 70000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python разработчик",
+    "link": "https://hh.ru/vacancy/37486302?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "150000",
+    "zp_max": "250000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Data Engineer",
+    "link": "https://hh.ru/vacancy/41469811?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 250000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/43037049?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "120000",
+    "zp_max": "180000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Junior Backend-разработчик (Python)",
+    "link": "https://hh.ru/vacancy/42424608?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 50000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Программист Python",
+    "link": "https://hh.ru/vacancy/42844642?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "60000",
+    "zp_max": "200000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Python / C++ разработчик",
+    "link": "https://hh.ru/vacancy/42783010?query=python",
     "resource": "https://hh.ru/",
     "zp_min": "150000",
     "zp_max": "200000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Python Team Lead (with Django & AWS)",
-    "link": "https://hh.ru/vacancy/43050325?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 240000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python QA Engineer Intern",
-    "link": "https://hh.ru/vacancy/42674523?query=python",
+    "vacancy_name": "Junior python разработчик",
+    "link": "https://hh.ru/vacancy/43052129?query=python",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Python Back-end Developer",
-    "link": "https://hh.ru/vacancy/42663166?query=python",
+    "vacancy_name": "Python-разработчик",
+    "link": "https://hh.ru/vacancy/42766513?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": "500",
-    "zp_max": "1000",
-    "zp_curr": "USD"
-  },
-  {
-    "vacancy_name": "Младший компьютерный лингвист (Python)",
-    "link": "https://hh.ru/vacancy/42209146?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 120000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Back-end разработчик Python",
-    "link": "https://hh.ru/vacancy/42706234?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "160000",
-    "zp_max": "190000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Strong junior / Middle Python Developer",
-    "link": "https://hh.ru/vacancy/42895610?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "1000",
+    "zp_min": "1500",
     "zp_max": "4000",
     "zp_curr": "USD"
   },
   {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/43002250?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "170000",
-    "zp_max": "230000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Программист Python",
-    "link": "https://hh.ru/vacancy/43047904?query=python",
+    "vacancy_name": "Стажер-программист Python",
+    "link": "https://hh.ru/vacancy/42601253?query=python",
     "resource": "https://hh.ru/"
   },
   {
-    "vacancy_name": "Junior python backend разработчик (разработчик логики)",
-    "link": "https://hh.ru/vacancy/42330542?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 60000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/40547800?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "220000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python developer / Python разработчик / Программист Python",
-    "link": "https://hh.ru/vacancy/41569929?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "80000",
-    "zp_max": "150000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Бекенд Python-разработчик (Django)",
-    "link": "https://hh.ru/vacancy/42802585?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Аналитик данных со знанием Python",
-    "link": "https://hh.ru/vacancy/43004074?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "100000",
-    "zp_max": "150000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Разработчик на стеке python, Odoo (flectra)",
-    "link": "https://hh.ru/vacancy/42580787?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 120000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Data Engineer",
-    "link": "https://hh.ru/vacancy/42926388?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": null,
-    "zp_max": 180000,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Ведущий специалист по Machine learning",
-    "link": "https://hh.ru/vacancy/42202946?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 250000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/42985436?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "60000",
-    "zp_max": "100000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python-Django Senior Developer",
-    "link": "https://hh.ru/vacancy/42883399?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Разработчик Python (middle Python developer)",
-    "link": "https://hh.ru/vacancy/42419682?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "120000",
-    "zp_max": "150000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Data Scientist / Аналитик",
-    "link": "https://hh.ru/vacancy/42782002?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Team Lead (Python, Django)",
-    "link": "https://hh.ru/vacancy/43012773?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "250000",
-    "zp_max": "350000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Программист Python/JavaScript секретарь",
-    "link": "https://hh.ru/vacancy/42411532?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 60000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Senior Python developer",
-    "link": "https://hh.ru/vacancy/41263186?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 200000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Программист Python/Django (Senior)",
-    "link": "https://hh.ru/vacancy/43047594?query=python",
+    "vacancy_name": "Специалист Computer Vision (Data Scientist) - middle/senior",
+    "link": "https://hh.ru/vacancy/42947110?query=python",
     "resource": "https://hh.ru/",
     "zp_min": "130000",
-    "zp_max": "200000",
+    "zp_max": "300000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Python Developer (Backend)",
-    "link": "https://hh.ru/vacancy/42981495?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Программист Python",
-    "link": "https://hh.ru/vacancy/42699496?query=python",
+    "vacancy_name": "Data Scientist (компьютерное зрение)",
+    "link": "https://hh.ru/vacancy/42813933?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": "60000",
-    "zp_max": "80000",
+    "zp_min": "70000",
+    "zp_max": "400000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Python Developer",
-    "link": "https://hh.ru/vacancy/41005910?query=python",
+    "vacancy_name": "Python/django программист-стажер (junior)",
+    "link": "https://hh.ru/vacancy/43056574?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": null,
-    "zp_max": 800000,
-    "zp_curr": "KZT"
-  },
-  {
-    "vacancy_name": "Python-разработчик",
-    "link": "https://hh.ru/vacancy/42441032?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 200000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Data Engineer",
-    "link": "https://hh.ru/vacancy/42326397?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 230000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Senior Python Developer/Python Developer (Python/Django разработчик/Backend)",
-    "link": "https://hh.ru/vacancy/42999429?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "80000",
-    "zp_max": "110000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Senior C++/Python Developer (Yellow Team)",
-    "link": "https://hh.ru/vacancy/36715026?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 200000,
-    "zp_max": null,
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Продуктовый аналитик/ Data Analyst (junior)",
-    "link": "https://hh.ru/vacancy/42918800?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "25000",
+    "zp_min": "16000",
     "zp_max": "40000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Junior Data Analyst",
-    "link": "https://hh.ru/vacancy/42886507?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Backend python/Django разработчик",
-    "link": "https://hh.ru/vacancy/42598849?query=python",
+    "vacancy_name": "Quantitative researcher",
+    "link": "https://hh.ru/vacancy/42932744?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": "120000",
-    "zp_max": "200000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/41095804?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "100000",
-    "zp_max": "160000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python разработчик",
-    "link": "https://hh.ru/vacancy/43023047?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "90000",
-    "zp_max": "150000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python backend разработчик",
-    "link": "https://hh.ru/vacancy/42633168?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "140000",
-    "zp_max": "160000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Программист-разработчик Python",
-    "link": "https://hh.ru/vacancy/43014438?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Data Engineer (Python)",
-    "link": "https://hh.ru/vacancy/41611584?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Разработчик (Python)",
-    "link": "https://hh.ru/vacancy/40551245?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "100000",
-    "zp_max": "160000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Python разработчик Senior",
-    "link": "https://hh.ru/vacancy/41541131?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": "150000",
-    "zp_max": "190000",
-    "zp_curr": "руб."
-  },
-  {
-    "vacancy_name": "Middle/Senior ML Engineer",
-    "link": "https://hh.ru/vacancy/42544459?query=python",
-    "resource": "https://hh.ru/",
-    "zp_min": 250000,
+    "zp_min": 350000,
     "zp_max": null,
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Data scientist Аналитик базы данных/РазработчикPython",
-    "link": "https://hh.ru/vacancy/42015054?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Python Программист разработчик",
-    "link": "https://hh.ru/vacancy/42676588?query=python",
-    "resource": "https://hh.ru/"
-  },
-  {
-    "vacancy_name": "Full-Stack (React.js + Node.js/Python) Developer to the UAE",
-    "link": "https://hh.ru/vacancy/42831306?query=python",
+    "vacancy_name": "Middle разработчик Python / Django (удалённо)",
+    "link": "https://hh.ru/vacancy/42822407?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": "8000",
-    "zp_max": "12000",
+    "zp_min": "60000",
+    "zp_max": "120000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Junior Python-разработчик",
+    "link": "https://hh.ru/vacancy/43056541?query=python",
+    "resource": "https://hh.ru/"
+  },
+  {
+    "vacancy_name": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/41784502?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 180000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Разработчик Python",
+    "link": "https://hh.ru/vacancy/42564873?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": null,
+    "zp_max": 50000,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Middle Python Developer / Python Разработчик",
+    "link": "https://hh.ru/vacancy/42749800?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 70000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Junior Python / Django разработчик",
+    "link": "https://hh.ru/vacancy/43049548?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "20000",
+    "zp_max": "100000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Ведущий разработчик Python (Team Lead)",
+    "link": "https://hh.ru/vacancy/42921678?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "250000",
+    "zp_max": "300000",
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Аналитик / Data Analyst (Product Analyst)",
+    "link": "https://hh.ru/vacancy/42814545?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 100000,
+    "zp_max": null,
+    "zp_curr": "руб."
+  },
+  {
+    "vacancy_name": "Senior full stack software engineer (Python) up to 9000$",
+    "link": "https://hh.ru/vacancy/41092589?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "6000",
+    "zp_max": "9000",
     "zp_curr": "USD"
   },
   {
-    "vacancy_name": "Разработчик (С++, Python)",
-    "link": "https://hh.ru/vacancy/42421827?query=python",
+    "vacancy_name": "Python developer",
+    "link": "https://hh.ru/vacancy/30005963?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": 4000,
+    "zp_max": null,
+    "zp_curr": "USD"
+  },
+  {
+    "vacancy_name": "Разработчик Python (телеком)",
+    "link": "https://hh.ru/vacancy/43031887?query=python",
     "resource": "https://hh.ru/",
     "zp_min": 150000,
     "zp_max": null,
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Python разработчик Senior",
-    "link": "https://hh.ru/vacancy/41541061?query=python",
+    "vacancy_name": "Backend-разработчик Python",
+    "link": "https://hh.ru/vacancy/42588879?query=python",
     "resource": "https://hh.ru/",
-    "zp_min": "180000",
-    "zp_max": "250000",
+    "zp_min": "170000",
+    "zp_max": "230000",
     "zp_curr": "руб."
   },
   {
-    "vacancy_name": "Аналитик данных / Data Engineer",
-    "link": "https://hh.ru/vacancy/43015639?query=python",
-    "resource": "https://hh.ru/"
+    "vacancy_name": "Python Tech Lead Engineer (Remote)",
+    "link": "https://hh.ru/vacancy/42946169?query=python",
+    "resource": "https://hh.ru/",
+    "zp_min": "250000",
+    "zp_max": "350000",
+    "zp_curr": "руб."
   }
 ]
