@@ -70,7 +70,7 @@ def hh_request(word, page_nbr, f_name):
     if answ.status_code != 200:
         raise Exception
         # break
-    print(answ) ###
+    print('Статус запроса к текущей странице:', answ)
 
     save_pickle(answ, path_inc)
     save_pickle(answ, f"{f_name}.rsp")
@@ -151,18 +151,26 @@ def hh_parser(f_name_in, f_name_out):
     return hh_vacancies
 
 
-def json_add_to_file(obj, f_name):
+def json_add_to_file(f_name, page):
     with open(f"{f_name}_inc.json", "r") as f:
         to_file = json.load(f)
-        file = to_file + obj
+        file = to_file
 
-    with open(f"{f_name}.json", "w+") as f:
-        json.dump(file, f, indent=2, ensure_ascii=False)
-    # return hh_vacancies
+    if page == 0:
+        with open(f"{f_name}.json", "w+") as f:
+            json.dump(file, f, indent=2, ensure_ascii=False)
+    else:
+        with open(f"{f_name}.json", "r") as f:
+            to_file_total = json.load(f)
+            file = to_file_total + to_file
+        with open(f"{f_name}.json", "w+") as f:
+            json.dump(file, f, indent=2, ensure_ascii=False)
 
+
+###############################
 
 word_vacancy = 'python'
-pages_nbr = 1
+pages_nbr = 2
 f_name_req = "hh_vacancies_search_result"
 f_name_out = 'hh_vacancies_parsed'
 
@@ -174,42 +182,31 @@ f.close()
 f = open(f"{f_name_out}.json", 'w')
 f.close()
 
+print('Слово для поиска:', word_vacancy, '\nКоличество страниц для поиска:', pages_nbr)
+print()
+
 i = 0
 while i < pages_nbr:
     print("Страница", i)
     hh_request_res = hh_request(word_vacancy, i, f_name_req)
     hh_parser_res = hh_parser(f_name_req, f_name_out)
-    json_add_to_file(hh_parser_res, f_name_out)
+    json_add_to_file(f_name_out, i)
     if is_last_page(hh_request_res): # выход, если последняя страница
         print('Последняя страница была обработана')
         break
     else:
-        # print(len(hh_request_res.text))
-        print(len(hh_parser_res))
-        # pprint(hh_parser)
+        print(f'Количество вакансий на странице {i}:', len(hh_parser_res))
     i = i + 1
 
 with open(f"{f_name_out}.json", "r") as f:
     hh_vacancies_full = json.load(f)
-    print(len(hh_vacancies_full), 'len(hh_vacancies_full)')
-    # pprint(hh_vacancies_full)
-
-# ############# единичный запрос
-# hh_request = hh_request(word_vacancy, 2, f_name_req)
-#
-# soup = bs(hh_request.text, 'html.parser')
-# vacancy_info = soup.find_all(attrs={"class": "vacancy-serp-item"})
-# print(len(vacancy_info), 'len(vacancy_info)')
-#
-# hh_parser(f_name_req, f_name_out)
-# with open(f"{f_name_out}.json", "r") as f:
-#     hh_vacancies_full = json.load(f)
-#     print(len(hh_vacancies_full), 'len(hh_vacancies_full)')
-#     pprint(hh_vacancies_full)
-# ############# единичный запрос
+    print()
+    print('Количество вакансий, суммарное:', len(hh_vacancies_full))
+    print('Вакансии:')
+    pprint(hh_vacancies_full)
 
 
-    ###########
+    ########### TODO TIME
 
     # for i in range(10):
     #     try:
@@ -219,3 +216,5 @@ with open(f"{f_name_out}.json", "r") as f:
     #     except Exception as e:
     #         print(e)
     #         time.sleep(0.5 + random.random())
+
+    ######### TODO PANDAS
