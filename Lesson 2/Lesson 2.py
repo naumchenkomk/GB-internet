@@ -14,7 +14,7 @@ import pickle
 import requests
 from bs4 import BeautifulSoup as bs
 from fake_useragent import UserAgent
-u = UserAgent()
+u = UserAgent().random
 
 
 def save_pickle(obj, path):
@@ -32,6 +32,63 @@ def get(url, headers, params, proxies):
     return req
 
 
+# Сохранение результата запроса к HH в файл (1)
+
+def is_last_page(request):
+    soup_incr = bs(request.text, 'html.parser')
+    is_end = soup_incr.find(attrs={"class": "bloko-button HH-Pager-Controls-Next HH-Pager-Control"}) is None
+    return is_end
+
+
+# Сохранение результата запроса к HH в файл (2)
+
+def hh_request(word, page_nbr, f_name):
+    path_inc = f"{f_name}_inc.rsp"
+    # очищаем файл для записи одной страницы
+    f = open(path_inc, 'w')
+    f.close()
+    # Браузер
+    ua = UserAgent().random
+
+    # while True:
+    url = "https://hh.ru/search/vacancy"
+    params = {
+        'L_is_autosearch': 'false',
+        'clusters': 'true',
+        'enable_snippets': 'true',
+        'text': word,
+        'page': page_nbr
+    }
+    headers = {
+        'User-Agent': ua
+    }
+    proxies = {
+        'http': 'http://3.88.169.225:80',
+        # 'https': 'https://165.227.223.19:3128',
+    }
+    answ = get(url, headers, params, proxies)
+    if answ.status_code != 200:
+        raise Exception
+        # break
+    print(answ) ###
+
+    save_pickle(answ, path_inc)
+    save_pickle(answ, f"{f_name}.rsp")
+
+    # print("Страница", page_id, "Последняя страница? ", is_last_page(answ))
+    return answ
+    # if is_last_page(answ):
+    #     return answ
+    #     break
+    # else:
+    #     page_id = page_id + 1
+    #     continue
+
+
+# Сохранение результата запроса к HH в файл (3)
+# sleep
+
+# парсинг файла с результатом запроса к HH
 def zp_pars(sum):
     sum = sum.replace('\xa0', '')
     if sum.find('от ') != -1:
@@ -47,99 +104,118 @@ def zp_pars(sum):
     return [sum_min, sum_max, curr]
 
 
-def next_page(request):
-    soup_incr = bs(request.text, 'html.parser')
-    is_end = soup_incr.find(attrs={"class": "bloko-button HH-Pager-Controls-Next HH-Pager-Control"}) is None
-    return is_end
+# Парсинг одной страницы HH (одного документа HTML)
 
+def hh_parser(f_name_in, f_name_out):
+    req = load_pickle(f"{f_name_in}_inc.rsp")
+    soup = bs(req.text, 'html.parser')
 
-# vacancy = input('Введите текст или слово для поиска вакансии: ')
+    # вакансия
+    vacancy_info = soup.find_all(attrs={"class": "vacancy-serp-item"})
+    hh_vacancies = []
 
-vacancy = 'python'
-# https://hh.ru/search/vacancy?L_is_autosearch=false&clusters=true&enable_snippets=true&text=python&page=1
-
-# очищаем файл перед заходом в цикл
-path = "hh_all.rsp"
-f = open(path, 'w')
-f.close()
-
-page_id = 37
-while True:
-    url = "https://hh.ru/search/vacancy"
-    params = {
-        'L_is_autosearch': 'false',
-        'clusters': 'true',
-        'enable_snippets': 'true',
-        'text': vacancy,
-        'page': page_id
-    }
-    headers = {
-        'User-Agent': u.random
-    }
-    proxies = {
-        'http': 'http://3.88.169.225:80',
-        # 'https': 'https://165.227.223.19:3128',
-    }
-    # params['page'] = page_id
-    answ = get(url, headers, params, proxies)
-    save_pickle(answ, path)
-
-    print("Страница ", page_id, "Последняя страница? ", next_page(answ))
-
-  #  break
-
-    if next_page(answ):
-        break
-    else:
-        page_id = page_id + 1
-        continue
-
-
-path = "hh_all.rsp"
-req = load_pickle(path)
-soup = bs(req.text, 'html.parser')
-# print(soup)
-
-# вакансия
-vacancy_info = soup.find_all(attrs={"data-qa": ["vacancy-serp__vacancy", "vacancy-serp__vacancy_premium"],
-                                    "class": ["vacancy-serp-item", "vacancy-serp-item_premium"]
-
-                                }#,
-                             #limit=20
-                             )
-print(len(vacancy_info))
-
-vacancies = []
-
-for i_tag in vacancy_info:
-    info = {}
-    try:
+    for i_tag in vacancy_info:
+        info = {}
         # название вакансии
-        vacancy_name = i_tag.find(attrs={"class": "bloko-section-header-3 bloko-section-header-3_lite"}).text.replace('\xa0', '')
+        vacancy_name = i_tag.find(attrs={"data-qa": "vacancy-serp__vacancy-title"}).text.replace('\xa0', '')
         # Ссылка на саму вакансию
-        link = i_tag.find(attrs={"class": "g-user-content"}).a['href']
+        link = i_tag.find(attrs={"class": "resume-search-item__name"}).a['href']
+        # Порядковый номер вакансии в результате запроса
+        # poz = i_tag.find(attrs={"class": "resume-search-item__name"}).a['data-position']
         # Сайт, откуда собрана вакансия
         resource = 'https://hh.ru/'
-        # Предлагаемая зп
-        zp = i_tag.find(attrs={"data-qa": "vacancy-serp__vacancy-compensation"}).text
-        zp_min = zp_pars(zp)[0]
-        zp_max = zp_pars(zp)[1]
-        zp_curr = zp_pars(zp)[2]
 
         info['vacancy_name'] = vacancy_name
         info['link'] = link
+        # info['poz'] = poz
         info['resource'] = resource
-        # info['zp'] = zp
-        info['zp_min'] = zp_min
-        info['zp_max'] = zp_max
-        info['zp_curr'] = zp_curr
-        vacancies.append(info)
-    except AttributeError:
-        pass
+
+        # vacancies.append(info)
+        try:
+            # Предлагаемая зп
+            zp = i_tag.find(attrs={"data-qa": "vacancy-serp__vacancy-compensation"}).text
+            zp_min = zp_pars(zp)[0]
+            zp_max = zp_pars(zp)[1]
+            zp_curr = zp_pars(zp)[2]
+            info['zp_min'] = zp_min
+            info['zp_max'] = zp_max
+            info['zp_curr'] = zp_curr
+        except AttributeError:
+            pass
+
+        hh_vacancies.append(info)
+
+    with open(f"{f_name_out}_inc.json", "w+") as f:
+        json.dump(hh_vacancies, f, indent=2, ensure_ascii=False)
+
+    return hh_vacancies
 
 
-pprint(vacancies)
-print(len(vacancies))
+def json_add_to_file(obj, f_name):
+    with open(f"{f_name}_inc.json", "r") as f:
+        to_file = json.load(f)
+        file = to_file + obj
 
-with open("vacancies.json", "w") as f:
-    json.dump(vacancies, f, indent=2, ensure_ascii=True)
+    with open(f"{f_name}.json", "w+") as f:
+        json.dump(file, f, indent=2, ensure_ascii=False)
+    # return hh_vacancies
+
+
+word_vacancy = 'python'
+pages_nbr = 1
+f_name_req = "hh_vacancies_search_result"
+f_name_out = 'hh_vacancies_parsed'
+
+# очищаем полный файл ответа от HH
+f = open(f"{f_name_req}.rsp", 'w')
+f.close()
+
+# очищаем полный файл json
+f = open(f"{f_name_out}.json", 'w')
+f.close()
+
+i = 0
+while i < pages_nbr:
+    print("Страница", i)
+    hh_request_res = hh_request(word_vacancy, i, f_name_req)
+    hh_parser_res = hh_parser(f_name_req, f_name_out)
+    json_add_to_file(hh_parser_res, f_name_out)
+    if is_last_page(hh_request_res): # выход, если последняя страница
+        print('Последняя страница была обработана')
+        break
+    else:
+        # print(len(hh_request_res.text))
+        print(len(hh_parser_res))
+        # pprint(hh_parser)
+    i = i + 1
+
+with open(f"{f_name_out}.json", "r") as f:
+    hh_vacancies_full = json.load(f)
+    print(len(hh_vacancies_full), 'len(hh_vacancies_full)')
+    # pprint(hh_vacancies_full)
+
+# ############# единичный запрос
+# hh_request = hh_request(word_vacancy, 2, f_name_req)
+#
+# soup = bs(hh_request.text, 'html.parser')
+# vacancy_info = soup.find_all(attrs={"class": "vacancy-serp-item"})
+# print(len(vacancy_info), 'len(vacancy_info)')
+#
+# hh_parser(f_name_req, f_name_out)
+# with open(f"{f_name_out}.json", "r") as f:
+#     hh_vacancies_full = json.load(f)
+#     print(len(hh_vacancies_full), 'len(hh_vacancies_full)')
+#     pprint(hh_vacancies_full)
+# ############# единичный запрос
+
+
+    ###########
+
+    # for i in range(10):
+    #     try:
+    #         answ = get(url, headers, params, proxies)
+    #         if answ.status_code != 200:
+    #             raise Exception
+    #     except Exception as e:
+    #         print(e)
+    #         time.sleep(0.5 + random.random())
